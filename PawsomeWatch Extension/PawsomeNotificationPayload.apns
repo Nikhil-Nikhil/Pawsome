@@ -1,0 +1,14 @@
+{
+  "aps":{
+    "alert":{
+      "body":" Its Pawsome time!",
+    },
+    "category":"Pawsome"
+  },
+  "WatchKit Simulator Actions":[
+    {
+    "title":"Explore More Cats!",
+    "identifier":"viewCatsAction"
+      }
+    ]
+}
